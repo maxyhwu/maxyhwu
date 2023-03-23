@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+- I'm Max!
+- Information Management major student at NTU 💻
+- Also studying Law as minor 🧑‍⚖️
+- Baseball lover, big fan of Los Angeles Dodgers ⚾️
+- Music addiction 🎵
+- Feel free to [reach me](mailto:b09705045@ntu.im) :) 
 
 <!--
 **maxyhwu/maxyhwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
