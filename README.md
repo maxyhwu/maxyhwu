@@ -1,6 +1,6 @@
 ### Hi 👋
 - I'm Max!
-- Information Management major student at NTU 💻
+- Information Management student at NTU 💻
 - Also studying Law as minor 🧑‍⚖️
 - Baseball lover, big fan of Los Angeles Dodgers ⚾️
 - Music addiction 🎵
